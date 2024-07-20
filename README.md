@@ -6,7 +6,7 @@ Este proyecto es un servicio REST API que simula el uso de un modelo de predicci
 
 El servicio proporciona dos endpoints principales:
 - `/`: Muestra una página de bienvenida.
-- `/predict`: Permite realizar una "predicción" sumando dos números proporcionados.
+- `/prediccion`: Permite realizar una "predicción" sumando dos números proporcionados.
 
 ## Requerimientos
 
@@ -17,8 +17,8 @@ El servicio proporciona dos endpoints principales:
 
 1. Clona el repositorio:
     ```bash
-    git clone https://github.com/tuusuario/nombre-repositorio.git
-    cd nombre-repositorio
+    git clone https://github.com/Roguez69/Contenedores.git
+    cd Contenedores
     ```
 
 2. Construye el contenedor Docker:
